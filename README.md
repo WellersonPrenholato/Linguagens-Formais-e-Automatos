@@ -1,5 +1,5 @@
 # [Linguagens Formais] e [Autômatos]
-**Aluno(s):** <br />
+<blockquote>**Aluno(s):** <br />
 Wellerson Prenholato de Jesus <br />
 Hádamo da Silva Egito <br />
 Luis Henrique Gundes Valim <br />
@@ -9,6 +9,7 @@ Thiago Jr. Capetini <br />
 **Professor:** Henrique Monteiro Cristovão.<br />
 **Cursos:** Engenharia de Computação e Ciência da Computação.<br />
 **Período letivo:** 2018/1.<br />
+</blockquote>
 
 ---
 
