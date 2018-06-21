@@ -1,14 +1,14 @@
 # [Linguagens Formais] e [Autômatos]
-<blockquote>**Aluno(s):** <br />
+<blockquote> <strong>Aluno(s): </strong> <br />
 Wellerson Prenholato de Jesus <br />
 Hádamo da Silva Egito <br />
 Luis Henrique Gundes Valim <br />
 Cássio Pereira Cândido <br />
 Thiago Jr. Capetini <br />
 <br />
-**Professor:** Henrique Monteiro Cristovão.<br />
-**Cursos:** Engenharia de Computação e Ciência da Computação.<br />
-**Período letivo:** 2018/1.<br />
+ <strong>Professor: </strong> Henrique Monteiro Cristovão.<br />
+ <strong>Cursos: </strong> Engenharia de Computação e Ciência da Computação.<br />
+ <strong>Período letivo: </strong> 2018/1.<br />
 </blockquote>
 
 ---
